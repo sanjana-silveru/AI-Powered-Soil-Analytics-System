@@ -1,0 +1,8 @@
+Metric,Value
+Total Images,1139
+Successfully Evaluated,1139
+Failed Images,0
+Accuracy,87.01%
+Macro Precision,87.99%
+Macro Recall,81.63%
+Macro F1-Score,83.11%

@@ -1,0 +1,13 @@
+               precision    recall  f1-score   support
+
+Alluvial_Soil     0.9091    0.4082    0.5634        49
+    Arid_Soil     0.7710    0.9534    0.8526       279
+   Black_Soil     0.9492    0.9573    0.9532       234
+Laterite_Soil     0.9290    0.7336    0.8198       214
+Mountain_Soil     0.9290    0.8901    0.9091       191
+     Red_Soil     0.8390    0.9252    0.8800       107
+  Yellow_Soil     0.8333    0.8462    0.8397        65
+
+     accuracy                         0.8701      1139
+    macro avg     0.8799    0.8163    0.8311      1139
+ weighted avg     0.8797    0.8701    0.8660      1139
