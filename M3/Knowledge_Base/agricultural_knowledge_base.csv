@@ -1,0 +1,19 @@
+parameter,condition,recommendation,reason
+nitrogen,low,Apply an appropriate nitrogen source according to soil-test and crop-specific recommendations.,Nitrogen deficiency can limit vegetative growth and crop development.
+nitrogen,adequate,Maintain current nitrogen management and avoid unnecessary application.,Excess nitrogen can cause nutrient imbalance and environmental losses.
+nitrogen,high,Avoid additional nitrogen unless a crop-specific soil test recommends it.,Excess nutrient application can create imbalance and environmental risk.
+phosphorus,low,Apply phosphorus based on soil-test results and crop requirements.,Phosphorus is essential for root development and plant growth.
+phosphorus,adequate,Maintain phosphorus management and avoid unnecessary application.,Excess phosphorus can accumulate and contribute to water-quality problems.
+phosphorus,high,Avoid additional phosphorus and review fertilizer or compost inputs.,Excess phosphorus can contribute to environmental pollution.
+potassium,low,Apply potassium according to soil-test results and crop requirements.,Potassium supports plant growth and several physiological processes.
+potassium,adequate,Maintain balanced potassium management.,Unnecessary potassium application may create nutrient imbalance.
+potassium,high,Avoid additional potassium unless recommended by a crop-specific soil test.,Excess potassium can interfere with uptake of other nutrients.
+ph,acidic,Consider an appropriate liming material based on soil-test recommendations.,Low pH can reduce availability of some nutrients and may cause toxicity problems.
+ph,suitable,Maintain the current soil pH management.,Suitable pH supports nutrient availability for many crops.
+ph,alkaline,Use crop-specific soil-test guidance before attempting to lower soil pH.,High pH can reduce availability of several nutrients.
+moisture,low,Improve irrigation or water management according to crop requirements.,Insufficient soil moisture can restrict root growth and nutrient uptake.
+moisture,suitable,Maintain appropriate irrigation and drainage.,Balanced moisture supports root activity and nutrient availability.
+moisture,high,Improve drainage and avoid excessive irrigation.,Excess water can restrict oxygen availability around roots.
+organic_matter,low,Consider adding suitable organic matter such as well-managed compost while avoiding excessive applications.,Organic matter contributes to soil structure, nutrient storage and water-holding capacity.
+organic_matter,adequate,Maintain organic matter through appropriate residue and organic-matter management.,Adequate organic matter supports soil structure and biological activity.
+organic_matter,high,Avoid unnecessary additional compost or manure and monitor nutrient levels.,Excessive organic amendments can cause nutrient and salt accumulation.
